@@ -36,7 +36,7 @@ Originally built as a JavaScript capstone project for Epicodus, we have plans to
 ## Setup/Installation Requirements
 
 To play this game:
-* Open a web browser of your choice and navigate to the following page:
+* Open a web browser of your choice and navigate to the following page: https://vanmars.github.io/dungeon-darkly/dist/index.html
 
 To extend this project:
 * Clone this project using the 'git clone' command in terminal/command line.
@@ -51,7 +51,7 @@ Run 'npm run build' to bundle your code, and then open dist/index.html in a web 
 
 _There are no known bugs at this time; however, we have lots of visions for future work:_
 * Create a tutorial quest that allows teaches users how and when to use each command while they play a mini quest
-* Add more interactable environement features
+* Add more interactable environment features
 * Enable randomly generated items to appear in each room
 * Add more commands
 * Add puzzles, feats, and skills
